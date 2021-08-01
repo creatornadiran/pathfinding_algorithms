@@ -1,9 +1,14 @@
 <div align="center"> 
  
-# pathfinding_algorithms
- 
-<img src=https://github.com/creatornadiran/pathfinding_algorithms/blob/main/img/screenshot.PNG width="40%">
+# Pathfinding Algorithms
 
+<pre>
+A*                       |                                  Dijkstra's
+</pre>
+<img src=https://github.com/creatornadiran/pathfinding_algorithms/blob/main/img/astar_ss.PNG width="40%">
+ 
+<img src=https://github.com/creatornadiran/pathfinding_algorithms/blob/main/img/dijkstras_ss.PNG width="55%" >
+ 
 ---
  
 # Controls:
