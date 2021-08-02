@@ -17,3 +17,5 @@ A*                       |                                  Dijkstra's
 **RMB: Remove Node**
 
 **Space: Start Algorithm**
+
+ **C: Reset**
